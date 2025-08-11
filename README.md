@@ -69,7 +69,3 @@ et-astronauta/
    pip install pgzero
 
    ---
-
-Se quiser, já posso gerar esse arquivo `.md` e te mandar para **download direto** aqui no chat, pronto para colocar no GitHub.  
-
-Quer que eu gere o arquivo pra você baixar agora?
