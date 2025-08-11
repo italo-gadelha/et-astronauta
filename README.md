@@ -25,20 +25,32 @@ Inclui **menu inicial com botão para ligar/desligar som** e animação de sprit
 
 et-astronauta/
 │-- main.py
+
 │-- images/
+
 │ │-- player_idle1.png
+
 │ │-- player_idle2.png
+
 │ │-- player_walk1.png
-│ │-- ...
+
 │ │-- enemy_idle1.png
+
 │ │-- enemy_walk1.png
+
 │ └-- background.png
+
 │
 │-- sounds/
+
 │ │-- jump.wav
+
 │ └-- hit.wav
+
 │
+
 └-- music/
+
 └-- bg_music.ogg
 
 ---
