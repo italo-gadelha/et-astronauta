@@ -69,3 +69,6 @@ et-astronauta/
    pip install pgzero
 
    ---
+   
+📜 Licença
+Este projeto é de uso livre para fins de estudo e aprendizado.
